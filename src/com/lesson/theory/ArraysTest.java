@@ -3,6 +3,11 @@ package com.lesson.theory;
 import java.util.Arrays;
 import java.util.Random;
 
+/*
+1 - создание и заполнение массива рандомными значениями
+  */
+
+
 
 public class ArraysTest {
     public static void main(String[] args) {
@@ -20,3 +25,4 @@ public class ArraysTest {
         System.out.println(Arrays.toString(array));
     }
 }
+
