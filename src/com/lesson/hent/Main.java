@@ -10,6 +10,8 @@ public class Main {
         title1.setTitle(scan.nextLine());
         title1.setPage(scan.nextInt());
         title1.setSize(scan.nextDouble());
-        title1.viewInform();
+        title1.viewInform(MangaType.HENTAI);
+
+//        title1.wtf(MangaType.HENTAI);
     }
 }
